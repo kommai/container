@@ -13,10 +13,19 @@
     "require": {
         "php": ">=7.4"
     },
+    "require-dev": {
+        "kommai/testkit": "dev-main"
+    },
     "autoload": {
         "psr-4": {
             "Kommai\\": "src/"
         }
     },
-    "minimum-stability": "dev"
+    "minimum-stability": "dev",
+    "repositories": [
+        {
+            "type": "vcs",
+            "url": "https://github.com/kommai/testkit"
+        }
+    ]
 }
