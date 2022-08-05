@@ -13,16 +13,16 @@
             "source": {
                 "type": "git",
                 "url": "https://github.com/kommai/testkit.git",
-                "reference": "eefc852d0a4aa630848ce985296a511f98cf2fdf"
+                "reference": "1a7fc5c20599ef4923585de4b20752d078ac18e6"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/kommai/testkit/zipball/eefc852d0a4aa630848ce985296a511f98cf2fdf",
-                "reference": "eefc852d0a4aa630848ce985296a511f98cf2fdf",
+                "url": "https://api.github.com/repos/kommai/testkit/zipball/1a7fc5c20599ef4923585de4b20752d078ac18e6",
+                "reference": "1a7fc5c20599ef4923585de4b20752d078ac18e6",
                 "shasum": ""
             },
             "require": {
-                "php": ">=7.4"
+                "php": ">=8.0"
             },
             "default-branch": true,
             "type": "library",
@@ -46,7 +46,7 @@
                 "source": "https://github.com/kommai/testkit/tree/main",
                 "issues": "https://github.com/kommai/testkit/issues"
             },
-            "time": "2022-03-27T01:09:54+00:00"
+            "time": "2022-03-30T00:17:45+00:00"
         }
     ],
     "aliases": [],
@@ -60,5 +60,5 @@
         "php": ">=7.4"
     },
     "platform-dev": [],
-    "plugin-api-version": "2.2.0"
+    "plugin-api-version": "2.3.0"
 }
